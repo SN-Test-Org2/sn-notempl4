@@ -4,6 +4,9 @@
     <layoutAssignments>
         <layout>aa__c-aa Layout</layout>
     </layoutAssignments>
+    <layoutAssignments>
+        <layout>dd__c-dd Layout</layout>
+    </layoutAssignments>
     <userLicense>External Apps Login</userLicense>
     <userPermissions>
         <enabled>true</enabled>
